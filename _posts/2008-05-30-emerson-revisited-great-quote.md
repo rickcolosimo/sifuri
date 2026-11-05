@@ -9,7 +9,7 @@ categories:
 tags:
   - kids
   - leadership
-  - quote
+  - quotes
 excerpt: "I recently came across this quote and have been upset about not getting it posted sooner. It just oozes character. An excess of parental attention may build self-esteem, which is useless, at the ex..."
 ---
 

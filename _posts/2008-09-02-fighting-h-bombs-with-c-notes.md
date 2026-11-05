@@ -9,7 +9,7 @@ categories:
 tags:
   - cornell
   - orphan-ideas
-  - quote
+  - quotes
 excerpt: "I read somewhere (here’s one reference and one that makes it both positive and negative, and another – any other favorites?) of someone referring to the not-so-casual, i.e., intentional, dropping o..."
 ---
 

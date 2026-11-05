@@ -9,7 +9,7 @@ categories:
 tags:
   - culture
   - language
-  - quote
+  - quotes
   - wisdom
 excerpt: "Today’s NYT has a story about a former Capitol Hill staffer who is a “dissenter” and “skeptic” on climate change issues. He might even be a “misinformer.” Congratulations to the NYT for breaking ou..."
 ---

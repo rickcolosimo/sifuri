@@ -7,7 +7,7 @@ permalink: /why-you-need-to-outline-and-edit-your-blog-posts/
 categories:
   - quotes-2
 tags:
-  - quote
+  - quotes
   - writing
 excerpt: "I often write in a prolific burst when starting a post, rushing to get the thoughts out of my head and onto the screen. But, in looking back over many old posts at ThoughtStorm or rickcolosimo.com,..."
 ---

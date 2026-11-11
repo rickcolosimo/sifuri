@@ -30,9 +30,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-    title: Sifuri - Views of a Modern World
-    description: Everything Rick Writes
-    author: Rick Colosimo
+      title: Sifuri - Views of a Modern World
+      description: Everything Rick Writes
+      author: Rick Colosimo
 
   
 exclude:
